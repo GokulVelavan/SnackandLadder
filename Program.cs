@@ -19,6 +19,8 @@ namespace SnackandLadder
 
             DICE = random.Next(0, 7);
             Console.WriteLine("THE STARTING POSITION IS:{0}", COUNT);
+            Console.WriteLine("THE STARTING POSITION IS:{0}", COUNT);
+
             Console.WriteLine("THE STARTING DICE NO IS:{0}", DICE);
 
             Console.ReadLine();
