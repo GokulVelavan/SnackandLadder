@@ -8,9 +8,14 @@ namespace SnackandLadder
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
-            Console.WriteLine("Snack AND Ladder");
+            int POSITION = 0;
+            int PLAYER = 1;
+            int DICE = 0;
+            int COUNT = 0;
+            Console.WriteLine("THE STARTING POSITION IS:{0}",COUNT);
             Console.ReadLine();
         }
     }
