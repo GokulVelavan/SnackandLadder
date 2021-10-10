@@ -1,0 +1,7 @@
+C:\Users\INFINITY\source\repos\SnackandLadder\bin\Debug\SnackandLadder.exe.config
+C:\Users\INFINITY\source\repos\SnackandLadder\bin\Debug\SnackandLadder.exe
+C:\Users\INFINITY\source\repos\SnackandLadder\bin\Debug\SnackandLadder.pdb
+C:\Users\INFINITY\source\repos\SnackandLadder\obj\Debug\SnackandLadder.csproj.AssemblyReference.cache
+C:\Users\INFINITY\source\repos\SnackandLadder\obj\Debug\SnackandLadder.csproj.CoreCompileInputs.cache
+C:\Users\INFINITY\source\repos\SnackandLadder\obj\Debug\SnackandLadder.exe
+C:\Users\INFINITY\source\repos\SnackandLadder\obj\Debug\SnackandLadder.pdb
